@@ -1,0 +1,46 @@
+body{
+    
+    background-color: #2C3333;
+    font-size: 14px;
+}
+
+header{
+    
+    line-height: 120px;
+    min-height: 120px;
+    color: white;
+    text-shadow: 0 0 3px black;
+    text-align: center;
+    font-size: 300%;
+    background-color: #2E4F4F;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+   
+
+}
+nav{
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+footer{
+   
+    color: white;                                                                                                                                                                                                                                                                                                                                                                       
+    font-size: 100%;
+    letter-spacing: 3px;
+    text-align: center;
+    min-height: 40px;
+    background-color: #2E4F4F;
+    
+}
+
+main{
+    padding: 10px;
+}
+
+.container{
+    background-color: white;
+    box-shadow: 0 0 10px gray;
+    padding: 10px;
+    margin-top:  10px;
+    border-radius: 15px;
+}
