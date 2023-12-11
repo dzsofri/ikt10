@@ -1,6 +1,6 @@
 body{
     
-    background-color: #d1d1d1;
+    background-color: #96b722;
     font-size: 14px;
 }
 
@@ -12,7 +12,7 @@ header{
     text-shadow: 0 0 3px gray;
     text-align: center;
     font-size: 300%;
-    background-color: #e0e0e0;
+    background-color: whitesmoke;
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
    
@@ -24,12 +24,12 @@ nav{
 }
 footer{
    
-    color: white;                                                                                                                                                                                                                                                                                                                                                                       
+    color:black;                                                                                                                                                                                                                                                                                                                                                                       
     font-size: 100%;
     letter-spacing: 3px;
     text-align: center;
     min-height: 40px;
-    background-color: #e0e0e0;
+    background-color: whitesmoke;
     
 }
 
