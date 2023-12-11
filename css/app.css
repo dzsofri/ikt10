@@ -1,6 +1,6 @@
 body{
     
-    background-color: #2C3333;
+    background-color: #d1d1d1;
     font-size: 14px;
 }
 
@@ -8,11 +8,11 @@ header{
     
     line-height: 120px;
     min-height: 120px;
-    color: white;
-    text-shadow: 0 0 3px black;
+    color: black;
+    text-shadow: 0 0 3px gray;
     text-align: center;
     font-size: 300%;
-    background-color: #2E4F4F;
+    background-color: #e0e0e0;
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
    
@@ -29,7 +29,7 @@ footer{
     letter-spacing: 3px;
     text-align: center;
     min-height: 40px;
-    background-color: #2E4F4F;
+    background-color: #e0e0e0;
     
 }
 
@@ -43,4 +43,10 @@ main{
     padding: 10px;
     margin-top:  10px;
     border-radius: 15px;
+}
+
+img{
+    height: auto;
+    width: 100%;
+    margin: 0 auto 0;
 }
